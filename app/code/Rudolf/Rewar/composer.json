@@ -1,5 +1,5 @@
 {
-  "name": "Rudolf/Rewar",
+  "name": "Magento/Vendor",
   "description": "summary",
   "license": [
     "OSL-3.0"
@@ -17,7 +17,7 @@
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-      "Rudolf\\Rewar\\": ""
+      "Magento\\Vendor\\": ""
     }
   }
 }
