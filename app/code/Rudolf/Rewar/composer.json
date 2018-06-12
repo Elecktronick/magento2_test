@@ -1,0 +1,23 @@
+{
+  "name": "Rudolf/Rewar",
+  "description": "summary",
+  "license": [
+    "OSL-3.0"
+  ],
+  "type": "magento2-module",
+  "version": "0.0.2",
+  "authors": [
+    {
+      "name": "Rudolf Gerber",
+      "email": "Rudolf_gerber@mail.ru",
+      "homepage": "https://github.com/Elecktronick/magento2_test.git",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Rudolf\\Rewar\\": ""
+    }
+  }
+}
